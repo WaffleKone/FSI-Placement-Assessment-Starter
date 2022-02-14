@@ -73,6 +73,3 @@ sugarMinusBtn.addEventListener('click', function(){
         totalQty.textContent = (gb+cc+sugar)
     }
 })
-
-
-// TODO: Hook up event listeners for the rest of the buttons
